@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">iBOOKit</string>
+    <string name="google_maps_API_key">AIzaSyCjFl8KTrygnL1B8g6n-96_hkwK3_rlBj4</string>
+    <string name="title_activity_scanner">ScannerActivity</string>
+    <string-array name="category">
+        <item>Classics</item>
+        <item>SciFi</item>
+        <item>Horror</item>
+        <item>Thriller</item>
+        <item>Sports</item>
+        <item>Comics</item>
+        <item>Romance</item>
+        <item>Business</item>
+        <item>Others</item>
+    </string-array>
+    <string name="title_activity_set_location">Map</string>
+    <string name="title_activity_view_location">Map</string>
+</resources>

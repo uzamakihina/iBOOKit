@@ -1,0 +1,14 @@
+
+This is a full stack application that allow users make an account and sell or borrow books from other users on this app.
+The application keeps track of book ownership by scanning the isbn of the book with a google API.
+
+You can search for books by user names, book names, or book description. The application can also suggest book genres based on 
+previous book searches.
+
+The application keeps track of which books you have borrowed from who, and which books has you lent out to.
+
+You can also edit your profile setting such as putting a picture, phone number, and email.
+
+
+
+To use this application run the code folder in iBOOKit on android studio.

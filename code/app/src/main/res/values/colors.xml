@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#64B6AC</color>
+    <color name="colorPrimaryDark">#5D737E</color>
+    <color name="colorAccent">#4F8EC2</color>
+    <color name="backgroundMaiActivity">#000000</color>
+    <color name="backgroundSignIn">#8DB8DE</color>
+    <color name="mainButton">#0C3084</color>
+    <color name="redText">#CB0018</color>
+    <color name="homeSearch">#2F00C8</color>
+    <color name="purpleText">#960DF1</color>
+    <color name="orangeText">#FFF8A200</color>
+    <color name="blueBackground">#FF22BBF2</color>
+    <color name="button_pressed">#ff8a00</color>
+    <color name="button_default">#1c76bb</color>
+    <color name="blacktext">#000000</color>
+
+    <color name="schemeBackground">#FCFFFD</color>
+    <color name="schemeLightGreen">#DAFFEF</color>
+    <color name="schemeMediumTurqoise">#C0FDFB</color>
+    <color name="schemeDarkGreen">#64B6AC</color>
+    <color name="schemeDarkest">#5D737E</color>
+    <color name="schemeListColor">#FFEBEBEB</color>
+
+    <color name="available">#ebffe6</color>
+    <color name="requested">#ffffe6</color>
+    <color name="taken">#ffe6e6</color>
+
+</resources>
